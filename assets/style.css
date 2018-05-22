@@ -44,7 +44,17 @@ body {
 
 }
 
+#gitit {
+    height: 100px;
+    width: 150px;
+    margin-left: 40px;
+}
+
 #description {
     text-align: left;
 
+}
+
+.col-md-2 {
+    margin-left: 10px;
 }
