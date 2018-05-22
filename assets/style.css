@@ -1,0 +1,50 @@
+body {
+    background-image: url("./imgs/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: rgba(122, 189, 194, 0.5);
+}
+.cd-fixed-bg {
+    min-height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgba(122, 189, 194, 0.5);
+    font-size: 20px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    padding: 50px;
+    text-align: center;
+}
+
+.cd-fixed-bg.cd-fixed-bg--2  {
+    background-color: transparent;
+    min-height: 50vh;
+}
+
+.jumbotron {
+    text-align: center;
+    color: white;
+    background-color: transparent;
+
+}
+
+.footer {
+    margin-top: 5pc;
+}
+
+#profpic {
+    margin-top: 25px;
+    height: 200px;
+    width: 270px;
+
+}
+
+#description {
+    text-align: left;
+
+}
